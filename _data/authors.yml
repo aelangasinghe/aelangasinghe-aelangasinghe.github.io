@@ -1,0 +1,8 @@
+akila:
+  name: "Akila Elangasinghe"
+  avatar: "/assets/images/CV.png"
+  bio: "M.Sc. Researcher in Computational Mechanics and Control Systems."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/akila-elangasinghe-48571b1b8/"

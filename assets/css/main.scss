@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes";
+
+/* Custom styles */
+.small-text {
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+.note-box {
+  background-color: rgba(211, 211, 211, 0.2);
+  border: 2px solid rgba(169, 169, 169, 0.5);
+  padding: 1rem;
+  margin: 1rem 0;
+  color: gray;
+  border-radius: 8px;
+}
+
+/* Target specific content by ID or class */
+#project-description p, 
+#project-description li {
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+.video-item {
+  flex: 1 1 calc(33.33% - 20px); /* 33.33% width for 3 items per row */
+  margin-bottom: 20px; /* Space between rows */
+}
+
+.video-item video {
+  width: 100%; /* Make videos responsive */
+  height: auto;
+}
