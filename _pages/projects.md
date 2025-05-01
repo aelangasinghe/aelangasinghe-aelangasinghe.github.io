@@ -67,8 +67,8 @@ The year after completing my bachelor's degree and while working as a TA at the 
 
 The simulation platform CARLA was used to implement the project milestones. The projects included:
 - Control system implementation for a path following.
-- Use of Error-state Kalman filter for localization.
-- Visual Odometry using OpenCV.
+- [Use of Error-state Kalman filter for localization](https://www.linkedin.com/posts/akila-elangasinghe-48571b1b8_estimation-localization-selfdrivingcars-activity-7055583245995819008--vHh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKm8eUBR_y8Pcb_fMi5_SyOb-MbzNaXupY).
+- [Visual Odometry using OpenCV](https://www.linkedin.com/posts/akila-elangasinghe-48571b1b8_visualperception-convolutionalneuralnetworks-activity-7072213692880166913-CXhP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKm8eUBR_y8Pcb_fMi5_SyOb-MbzNaXupY).
 - Motion planning (mission, behavior and trajectory planning).
 </div>
 
